@@ -32,10 +32,7 @@ This project demonstrates Python automation, HTTP requests, logging, and browser
 
 ```bash
 Developer_profile_launcher/
-│
-├── main.py
 ├── README.md
-├── developer_profile_launcher.log
 ```
 
 ---
@@ -81,7 +78,7 @@ pip install requests
 ## Step 4: Run the Program
 
 ```bash
-python main.py
+python developer_profile_launcher.py
 ```
 
 ---
