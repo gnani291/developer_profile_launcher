@@ -16,7 +16,6 @@ websites={
     4:("youtube","https://www.youtube.com/"),
     5:("google","https://www.google.com/")
 }
-
 #function to open websites
 def open_website(url,name):
     print(f"\n Opening{name}...")
