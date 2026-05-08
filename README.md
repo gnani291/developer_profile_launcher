@@ -5,7 +5,6 @@ A Python-based automation project that launches developer platforms directly fro
 This project demonstrates Python automation, HTTP requests, logging, and browser integration using beginner-friendly concepts.
 
 ---
-
 # 📌 Features
 
 ✅ Opens developer websites automatically  
