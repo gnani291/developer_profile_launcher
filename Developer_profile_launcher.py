@@ -47,7 +47,6 @@ def check_status(url,name):
     except Exception as e:
         print("Error:", e)
         logging.error(f"{name} FAILED - {e}")
-
 # Main Program
 while True:
 
