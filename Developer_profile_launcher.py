@@ -2,6 +2,7 @@ import webbrowser
 import requests
 import logging
 import time
+
 # logging configuration
 logging.basicConfig(
     filename="developer_profile_launcher",
