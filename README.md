@@ -56,7 +56,7 @@ git clone https://github.com/gnani291/Developer_profile_launcher.git
 
 ---
 
-## Step 2: Open Project Folder
+# Step 2: Open Project Folder
 
 ```bash
 cd Developer_profile_launcher
@@ -64,7 +64,7 @@ cd Developer_profile_launcher
 
 ---
 
-## Step 3: Install Requests Module
+# Step 3: Install Requests Module
 
 ```bash
 pip install requests
