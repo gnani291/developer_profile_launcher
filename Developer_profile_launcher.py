@@ -9,7 +9,6 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s-%(message)s"
 )
-
 # dictionaty of websites
 websites={
     1:("github","https://github.com/gnani291"),
