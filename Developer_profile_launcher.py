@@ -17,11 +17,13 @@ websites={
     4:("youtube","https://www.youtube.com/"),
     5:("google","https://www.google.com/")
 }
+
 # function to open websites
 def open_website(url,name):
     print(f"\n Opening{name}...")
     logging.info(f"Opening{name}")
     webbrowser.open(url)
+
 #function to know status codes 
 def check_status(url,name):
     print(f"\n checking{name} status...")
